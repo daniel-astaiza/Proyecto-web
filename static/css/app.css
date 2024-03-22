@@ -1,0 +1,15 @@
+header{
+    /* background-color: blue; */
+    height: 150px;
+}
+section{
+    /* background-color: chartreuse; */
+    min-height: 400px;
+}
+footer{
+    /* background-color: coral; */
+    height: 200px;
+}
+/* img{
+    width: 45%;
+} */
